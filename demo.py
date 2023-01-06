@@ -1,5 +1,5 @@
-hungry = input("are you hungry : ")
-if hungry=="yes":
-    print("eat samosa")
+num = int(input("Enter a num : "))
+if num>0:
+    print("positive number")
 else:
-    print("do your homework")
+    print("negative number")
